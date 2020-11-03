@@ -1,0 +1,20 @@
+{
+  "name": "dweb-datavis", 
+  "description": "A echarts & vue component",  
+  "version": "0.0.1", 
+  "main": "index.js", 
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": ["dweb","echarts","vue","component"],     
+  "author":"dwebnine" , 
+  "license": "ISC",
+  "bugs": {
+    "url": "" 
+  },
+  "homepage": ""         
+}
